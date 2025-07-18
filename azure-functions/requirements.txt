@@ -1,0 +1,15 @@
+azure-functions
+azure-identity
+azure-mgmt-resource
+azure-mgmt-costmanagement
+azure-mgmt-monitor
+azure-mgmt-subscription
+azure-storage-blob
+azure-cosmos
+azure-keyvault-secrets
+requests
+python-dateutil
+pydantic
+cryptography
+PyJWT
+azure-functions-worker
